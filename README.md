@@ -4,7 +4,7 @@ It's not perfect, if there was any bugs (which will be) feel free to make a pull
 
 # How to use
 - Create a new C# project using:
-```cmd
+```python
 dotnet new console -n "VirtualExplorer"
 ```
 - Copy contents of 'code.cs' into 'Program.cs"
@@ -13,7 +13,7 @@ dotnet new console -n "VirtualExplorer"
 cd "VirtualExplorer"
 dotnet run
 ```
-||(requires .NET SDK installed)||
+*(requires .NET SDK installed)*
 
 # Commands
 ```bash
