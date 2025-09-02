@@ -1,7 +1,8 @@
 # virtual_terminal_explorer
 A program i made for fun to simulate a terminal based file explorer in C#
 It's not perfect, if there was any bugs (which will be) feel free to make a pull request!
-------------------------
+
+--
 # How to use
 - Create a new C# project using:
 ```
@@ -14,6 +15,7 @@ cd "VirtualExplorer"
 dotnet run
 ```
 *(requires .NET SDK installed)*
+
 ------------------------
 # Commands
 ```
