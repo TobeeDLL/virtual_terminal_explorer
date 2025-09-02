@@ -452,6 +452,7 @@ class Program
 
     public static void Main()
     {
+        Console.Clear();
         Console.ForegroundColor = ConsoleColor.DarkGray;
         Console.Write("Welcome to ");
         Console.ForegroundColor = ConsoleColor.Yellow;
