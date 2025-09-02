@@ -1,22 +1,22 @@
 # virtual_terminal_explorer
 A program i made for fun to simulate a terminal based file explorer in C#
 It's not perfect, if there was any bugs (which will be) feel free to make a pull request!
-
+------------------------
 # How to use
 - Create a new C# project using:
-```python
+```
 dotnet new console -n "VirtualExplorer"
 ```
 - Copy contents of 'code.cs' into 'Program.cs"
 - Run using:
-```bash
+```
 cd "VirtualExplorer"
 dotnet run
 ```
 *(requires .NET SDK installed)*
-
+------------------------
 # Commands
-```bash
+```
  cd <destination> => change current directory
  goto <destination> => show folder contents, and set it as current directory
  goback => goto the last path you visited
